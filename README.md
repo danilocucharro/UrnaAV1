@@ -8,7 +8,7 @@
 
 ### Professor: [Daniel Ferreira](https://github.com/DanielGTI/)
 
-###Integrantes:
+### Integrantes:
 
 Antonio da Silva Teixeira Junior RA: 3022103108
 
